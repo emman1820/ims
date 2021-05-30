@@ -21,6 +21,7 @@
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <title>login</title>
 <link href="main/css/bootstrap-responsive.css" rel="stylesheet">
+<link rel="icon shortcut" href="./p/oscormart.png">
 <style>
 
 * {
